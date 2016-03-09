@@ -68,6 +68,4 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repository:https://github.com/liuyb4016/hexo3.git
-  branch: master
+  type:
